@@ -676,10 +676,10 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@solana/web3.js@^1.2.0":
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/@solana/web3.js/-/web3.js-1.2.3.tgz#8d4c1f70b8c208c721eeca03c9624d3638ba3d7f"
-  integrity sha512-aDsFJhefIiKh9kb3xeWcX5rsAPdUqJtz61F9tplfp//mYVpzKZeWYZSUKB39PXo7c5ZrxVeBx7am4J7NB10Pcg==
+"@solana/web3.js@^1.2.6":
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/@solana/web3.js/-/web3.js-1.2.6.tgz#ee57c28d2639d95cc5de1179babe695870041c94"
+  integrity sha512-TAAC5+zq7BHn3+mz6jpJlKFvcTqy0Fj/a+Fq3T5MVvsidlVTmIh18qiGPpe3Ve4eMZquF7JcytS8JanEyvgO6g==
   dependencies:
     "@babel/runtime" "^7.12.5"
     bn.js "^5.0.0"
